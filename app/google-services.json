@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "596528959526",
+    "project_id": "selokisaapp",
+    "storage_bucket": "selokisaapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596528959526:android:e4758c024e0309780a56e7",
+        "android_client_info": {
+          "package_name": "com.example.selokisaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "596528959526-n8e8j5pijhm00tjhfhuhpgk5ce47daed.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.selokisaapp",
+            "certificate_hash": "6c7617e2ceeb92429bd2c2ffcfd98d47468daff4"
+          }
+        },
+        {
+          "client_id": "596528959526-6j69gda4101osiffbuo8poa51fnri37r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQX7fOYnO3ZhHXZ40i9ONUNz4PkOXDNx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "596528959526-6j69gda4101osiffbuo8poa51fnri37r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

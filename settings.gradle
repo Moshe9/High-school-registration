@@ -1,0 +1,2 @@
+rootProject.name='SelokisaApp'
+include ':app'
